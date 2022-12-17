@@ -14,7 +14,6 @@ import de.mkammerer.argon2.Argon2;
 import de.mkammerer.argon2.Argon2Factory;
  
 @Repository
-@Transactional
 public class UsuarioDaoImp implements IUsuarioDao{
 	
 	@PersistenceContext
