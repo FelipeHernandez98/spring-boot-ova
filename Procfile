@@ -1,0 +1,1 @@
+web: java -jar target/proyecto-ova-0.0.1-SNAPSHOT.jar
